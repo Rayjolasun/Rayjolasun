@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I'm a Data Analyst!
+
+## About Me
+
+I am a highly motivated data analyst with a passion for uncovering insights and solving complex problems through data analysis. I have a strong foundation in analyzing large, complex datasets and presenting insights in a clear and concise manner.
 
 <!--
 **Rayjolasun/Rayjolasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
