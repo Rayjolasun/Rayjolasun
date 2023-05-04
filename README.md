@@ -7,7 +7,7 @@ I am a highly motivated data analyst with a passion for uncovering insights and 
 ### Skills
 
 - Data analysis and visualization
-- Statistical modeling and inference
+- Statistical modelling and inference
 - Data cleaning and preprocessing
 - SQL and database management
 - Programming languages: R, SQL
@@ -16,11 +16,15 @@ I am a highly motivated data analyst with a passion for uncovering insights and 
 
 Here are some of the projects I have worked on:
 
-- Cleaned a dataset using SQL to audit, profile, transformed, filtered & standardized the data to be used for further analysis.
+- Cleaned a dataset using SQL to audit, profile, transform, filter & standardized the data to be used for further analysis.
 
 ### Education
 
-I hold a Bachelor's degree in Forestry, certificates in Data Analysis and Data visualisation with Power BI. I am constantly seeking to learn and improve my skills to become a better data analyst.
+I hold a Bachelor's degree in Forestry, and certificates in Data Analysis and Data visualisation with Power BI. I am constantly seeking to learn and improve my skills to become a better data analyst.
+
+## Contact Me
+
+If you have any questions or would like to discuss a potential project, feel free to reach out to me through my GitHub profile. I am always eager to learn and take on new challenges in the field of data analysis. Thank you for visiting my profile and I look forward to connecting with you!
 <!--
 **Rayjolasun/Rayjolasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
