@@ -11,6 +11,16 @@ I am a highly motivated data analyst with a passion for uncovering insights and 
 - Data cleaning and preprocessing
 - SQL and database management
 - Programming languages: R, SQL
+
+### Projects
+
+Here are some of the projects I have worked on:
+
+- Cleaned a dataset using SQL to audit, profile, transformed, filtered & standardized the data to be used for further analysis.
+
+### Education
+
+I hold a Bachelor's degree in Forestry, certificates in Data Analysis and Data visualisation with Power BI. I am constantly seeking to learn and improve my skills to become a better data analyst.
 <!--
 **Rayjolasun/Rayjolasun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
