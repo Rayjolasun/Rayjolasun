@@ -1,4 +1,4 @@
-### Hi there I'm a Data Analyst!
+# Hi there I'm a Data Analyst!
 
 ## About Me
 
