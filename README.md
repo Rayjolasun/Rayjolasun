@@ -10,7 +10,7 @@ I am a highly motivated data analyst with a passion for uncovering insights and 
 - Statistical modelling and inference
 - Data cleaning and preprocessing
 - SQL and database management
-- Programming languages: R, SQL
+- Programming languages: Python, R, SQL
 
 ### Projects
 
