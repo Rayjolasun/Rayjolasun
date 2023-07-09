@@ -7,16 +7,20 @@ I am a highly motivated data analyst with a passion for uncovering insights and 
 ### Skills
 
 - Data analysis and visualization
+- Data cleaning and preparation
+- Data analysis and exploration
 - Statistical modelling and inference
-- Data cleaning and preprocessing
+- Data visualization
+- Problem solving
+- Report writing and communication
 - SQL and database management
-- Programming languages: Python, R, SQL
+- Programming languages: Python, R
 
 ### Projects
 
 Here are some of the projects I have worked on:
 
-- Cleaned a dataset using SQL to audit, profile, transform, filter & standardized the data to be used for further analysis.
+- Data Cleaning Using SQL: The project showcases a combination of technical skills, including proficiency in SQL, data analysis techniques, data cleaning, data validation, and data governance.
 
 ### Education
 
