@@ -20,7 +20,8 @@ I am a highly motivated data analyst with a passion for uncovering insights and 
 
 Here are some of the projects I have worked on:
 
-- Data Cleaning Using SQL: The project showcases a combination of technical skills, including proficiency in SQL, data analysis techniques, data cleaning, data validation, and data governance.
+- Data Cleaning Using SQL:  The project showcases a combination of technical skills, including proficiency in SQL, data analysis techniques, data cleaning, data validation, and data governance to identify and correct errors in a dataset
+- Lighthall-Data-Analytics-Super-League-Challenge:  The challenge improved my data analysis, SQL querying, Data exploration, Data wrangling, Data modelling, Problem-solving, Critical thinking & Data visualization skills.
 
 ### Education
 
